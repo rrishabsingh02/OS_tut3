@@ -1,0 +1,3 @@
+Student ID: 100787473, Mark: 90
+Student ID: 100787472, Mark: 85
+Average: 87.50, Standard Deviation: 2.50
